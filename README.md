@@ -1,5 +1,13 @@
 # 💫 About Me:
-🤓 Currently learning: Flutter & System Design  <br>💬 Ask me about: Development, Debugging, and Deploying  <br>📱 Love building: Mobile Apps & Websites  <br>😂 Fun fact: I speak fluent memes<br>
+
+👨‍💻 Full-Stack Developer focused on building real-world applications and backend systems
+🚀 Currently building: **EventFlow** — a production-style event management platform
+🤖 Exploring: **AI Engineering, LLMs & AI-powered applications**
+🏗️ Learning: **System Design, PostgreSQL, Redis, Kafka, Docker & scalable backend architecture**
+💻 Tech I work with: **JavaScript, TypeScript, React, Next.js, Node.js, Java, PostgreSQL & Docker**
+🧩 Love solving: **DSA, debugging, concurrency problems & real-world engineering scenarios**
+🎥 Sharing my learning journey through technical content on **Gopi_Builds_Telugu**
+😂 Fun fact: I turn engineering problems into projects… and then create videos about them.
 
 
 ## 🌐 Socials:
